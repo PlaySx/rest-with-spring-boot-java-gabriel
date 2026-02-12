@@ -8,7 +8,7 @@ spring:
     password: Gabriel2003@
   jpa:
     hibernate:
-      ddl-auto: update
+      ddl-auto: none
     properties:
       hibernate:
         dialect:
